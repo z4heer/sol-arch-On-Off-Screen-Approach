@@ -111,8 +111,6 @@ List<String> list = new ArrayList<>();
 Set<Integer> set = new HashSet<>();
 Map<Integer, String> map = new HashMap<>();
 ```
-```
-
 ---
 
 ### 🃏 Flashcards (Q&A + CLI)
