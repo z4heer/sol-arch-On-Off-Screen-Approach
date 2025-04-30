@@ -29,7 +29,6 @@ Hiding internal details and showing only the functionality.
 
 ### 6. Collections Framework
 Java API for managing groups of objects (List, Set, Map, Queue).
-```
 
 ---
 
@@ -59,7 +58,6 @@ Optional: Use `throws` to declare exceptions in method signature.
 ### 3. OOP Structure Diagram
 [Object Class] ← [Custom Class] ← [Child Class]
 [Interface] → [Implements] → [Class]
-```
 
 ---
 
@@ -165,10 +163,3 @@ Map<Integer, String> map = new HashMap<>();
 |----------------|----------------|----------------|
 | Order          | Maintains order| Unordered      |
 | Duplicates     | Allowed        | Not allowed    |
-```
-
----
-
-That completes your **Mid-Level Java Section** in structured, printable Markdown.
-
-🔜 Next: Do you want the **Advanced Level section** in the same format now?
