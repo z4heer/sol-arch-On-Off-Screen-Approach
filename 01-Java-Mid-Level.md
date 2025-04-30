@@ -141,8 +141,6 @@ Map<Integer, String> map = new HashMap<>();
 | `java -cp MyApp.jar MainClass`   | Runs a class from JAR                  |
 | `javadoc -d doc/ MyClass.java`   | Creates JavaDocs in the `doc/` folder |
 | `javap -c MyClass`               | Disassembles class bytecode           |
-```
-
 ---
 
 ### 🛠 Bonus: Useful Concept Comparisons
