@@ -1,6 +1,4 @@
 ### 📘 Definitions & Concepts
-
-```markdown
 ## Java Mid-Level - Key Definitions
 
 ### 1. Polymorphism
@@ -36,8 +34,6 @@ Java API for managing groups of objects (List, Set, Map, Queue).
 ---
 
 ### 🖼 Architecture Descriptions (for Diagrams)
-
-```markdown
 ## Java Mid-Level - Architecture Descriptions
 
 ### 1. Exception Handling Flow
@@ -69,7 +65,6 @@ Optional: Use `throws` to declare exceptions in method signature.
 
 ### 📄 Cheat Sheet
 
-```markdown
 ## Java Mid-Level - Syntax & Shortcuts
 
 ### Method Overloading
@@ -124,7 +119,6 @@ Map<Integer, String> map = new HashMap<>();
 
 ### 🃏 Flashcards (Q&A + CLI)
 
-```markdown
 ## Java Mid-Level - Flashcards
 
 ### 📌 Conceptual Q&A
@@ -157,7 +151,6 @@ Map<Integer, String> map = new HashMap<>();
 
 ### 🛠 Bonus: Useful Concept Comparisons
 
-```markdown
 ## Interface vs Abstract Class Summary
 
 | Feature           | Interface     | Abstract Class  |
