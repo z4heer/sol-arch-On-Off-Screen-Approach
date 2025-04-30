@@ -2,7 +2,6 @@
 
 ### 📘 Definitions & Concepts
 
-```markdown
 ## Java Beginner - Key Definitions
 
 ### 1. JVM (Java Virtual Machine)
@@ -43,7 +42,6 @@ Container to store data. Types: local, instance, static.
 
 ### 🖼 Architecture Descriptions (for Drawing/Visual Mapping Tools)
 
-```markdown
 ## Java Beginner - Architecture Descriptions
 
 ### 1. JVM Architecture
@@ -66,7 +64,6 @@ Container to store data. Types: local, instance, static.
 
 ### 📄 Cheat Sheet
 
-```markdown
 ## Java Beginner - Syntax & Quick Reference
 
 ### Class Structure
@@ -112,7 +109,6 @@ switch(day) {
 
 ### 🃏 Flashcards (Q&A + CLI)
 
-```markdown
 ## Java Beginner - Flashcards
 
 ### 📌 Conceptual Q&A
@@ -140,10 +136,3 @@ switch(day) {
 ```
 
 ---
-
-This is your **Beginner Level** section in fully formatted **Markdown**, ready for **copy-paste into Notion/Obsidian/Markdown editors or PDF generation**.
-
----
-
-🔜 Next Steps:
-Would you like me to proceed with the **Mid-Level section** in the same format?
