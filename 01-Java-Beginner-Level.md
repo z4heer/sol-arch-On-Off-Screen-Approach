@@ -120,7 +120,6 @@ switch(day) {
 **A:** JDK = JRE + Development Tools (like compiler, debugger, etc.)
 
 ---
-
 ### 💻 CLI Flashcards
 
 | Command              | Description                   |
