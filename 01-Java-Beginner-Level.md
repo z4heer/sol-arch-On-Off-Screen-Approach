@@ -36,8 +36,6 @@ Container to store data. Types: local, instance, static.
 - Inheritance (Basics)
 - Abstraction (Intro)
 - Polymorphism (Concept)
-```
-
 ---
 
 ### 🖼 Architecture Descriptions (for Drawing/Visual Mapping Tools)
@@ -58,7 +56,6 @@ Container to store data. Types: local, instance, static.
 1. Write code → `Hello.java`
 2. Compile using `javac Hello.java` → generates `Hello.class`
 3. Run with `java Hello` → JVM executes bytecode
-```
 
 ---
 
@@ -133,6 +130,5 @@ switch(day) {
 | `java -version`      | Shows installed Java version  |
 | `javadoc Hello.java` | Generates documentation       |
 | `javap Hello`        | Bytecode disassembler         |
-```
 
 ---
